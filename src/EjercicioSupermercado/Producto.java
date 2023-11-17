@@ -1,4 +1,4 @@
-package EjercicioSupermercado.supermercado;
+package EjercicioSupermercado;
 
 
 class Producto implements Comparable<Producto> {
