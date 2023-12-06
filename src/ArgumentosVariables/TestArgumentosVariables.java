@@ -4,7 +4,7 @@ public class TestArgumentosVariables {
     public static void main(String[] args) {
         imprimirNumeros(3, 4, 5);
         imprimirNumeros(1, 2);
-        variosParametros("Juan",8,9,10);
+        variosParametros("Juan", 8, 9, 10);
     }
 
     private static void variosParametros(String nombre, int... numeros) {
