@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MundoPc/Computadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MundoPc/DispositivoEntrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MundoPc/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MundoPc/Orden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MundoPc/Raton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MundoPc/Teclado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mundopcprueba/MundoPc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArgumentosVariables/TestArgumentosVariables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
