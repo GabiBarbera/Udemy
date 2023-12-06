@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MundoPc/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MundoPc/DispositivoEntrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MundoPc/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MundoPc/Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MundoPc/Raton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MundoPc/Teclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mundopcprueba/MundoPc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ventas/Orden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ventas/Orden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ventas/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ventas/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ventas/test/VentasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ventas/test/VentasTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +33,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2YJ6lbMWN0dYYcQ1s5pu4lPtEJD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
