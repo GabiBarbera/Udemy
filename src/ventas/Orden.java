@@ -23,20 +23,20 @@ public class Orden {
     public double calcularTotal() {
         double total = 0;
         for (int i = 0; i < this.contadorProductos; i++) {
-            Producto producto = this.productos[i];
+            // Producto producto = this.productos[i];
             //total += producto.getPrecio(); // total = total + producto.getPrecio()
             total += this.productos[i].getPrecio();
         }
         return total;
     }
 
-    public void mostrarOrden(){
+    public void mostrarOrden() {
         System.out.println("Id orden: " + this.idOrden);
         double totalOrden = this.calcularTotal();
-        System.out.println("Total de la orden = $" + totalOrden);
         System.out.println("Productos de la orden: ");
-        for (int i = 0; i < this.contadorProductos; i++){
+        for (int i = 0; i < this.contadorProductos; i++) {
             System.out.println(this.productos[i]);
         }
+        System.out.println("Total de la orden = $" + totalOrden);
     }
 }
