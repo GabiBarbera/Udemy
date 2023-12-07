@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AutoboxingUnboxing/test/TestAutoboxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/paquete1/Clase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/paquete2/ClaseHija.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/test/TestModificadoresAcceso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,7 @@
     "Application.TestBloquesInicializacion.executor": "Run",
     "Application.TestEnumeraciones.executor": "Run",
     "Application.TestForEach.executor": "Run",
+    "Application.TestModificadoresAcceso.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
