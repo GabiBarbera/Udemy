@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sobreescritura/domain/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sobreescritura/domain/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sobreescritura/test/TestSobreescritura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enumeraciones/test/TestEnumeraciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enumeraciones/test/TestEnumeraciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sobreescritura/domain/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sobreescritura/domain/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sobreescritura/test/TestSobreescritura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sobreescritura/test/TestSobreescritura.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +39,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PersonaPrueba.executor": "Run",
+    "Application.PruebaAritmetica.executor": "Run",
     "Application.TestArgumentosVariables.executor": "Run",
+    "Application.TestArreglosObject.executor": "Run",
     "Application.TestAutoboxingUnboxing.executor": "Run",
     "Application.TestBloquesInicializacion.executor": "Run",
     "Application.TestEnumeraciones.executor": "Run",
     "Application.TestForEach.executor": "Run",
     "Application.TestModificadoresAcceso.executor": "Run",
+    "Application.TestSobreescritura.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",

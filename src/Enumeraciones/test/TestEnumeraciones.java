@@ -8,8 +8,9 @@ import static Enumeraciones.enumeracion.Dias.MARTES;
 
 public class TestEnumeraciones {
     public static void main(String[] args) {
-//        System.out.println("Dia 1: " + LUNES);
-//        indicarDiaDeLaSemana(MARTES);
+        System.out.println("Dia 1: " + LUNES);
+        indicarDiaDeLaSemana(MARTES);
+        System.out.println(" ");
         System.out.println("Continente numero 4: " + Continentes.AMERICA);
         System.out.println("Numero de paises en el 4 continente: " + Continentes.AMERICA.getPaises());
         System.out.println("Numero de habitantes en el 4 continente: " + Continentes.AMERICA.getHabitantes());
