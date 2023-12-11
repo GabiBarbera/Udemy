@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/paquete1/Clase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/paquete2/ClaseHija.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/test/TestModificadoresAcceso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/paquete3/Clase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/paquete3/ClaseHija.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/paquete3/TestModificadoresAcceso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/paquete4/Clase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/paquete4/ClaseHija.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModificadoresAcceso/test/TestModificadoresAcceso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModificadoresAcceso/test/TestModificadoresAcceso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +60,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/Matrices" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ModificadoresAcceso.paquete4" />
+      <recent name="ModificadoresAcceso.paquete3" />
     </key>
   </component>
   <component name="SharedIndexes">

@@ -1,6 +1,5 @@
 package ModificadoresAcceso.test;
 
-import ModificadoresAcceso.paquete1.Clase1;
 import ModificadoresAcceso.paquete2.ClaseHija;
 
 public class TestModificadoresAcceso {
@@ -12,8 +11,8 @@ public class TestModificadoresAcceso {
 //        Clase1 clase = new Clase1("Publico");
 //        System.out.println("clase = " + clase.atributoPublico); // No podemos acceder a metodos/atributos protected
 //        clase.metodoPublico();
-
-        ClaseHija claseHija = new ClaseHija();
-        System.out.println("claseHija = " + claseHija);
+//
+//        ClaseHija claseHija = new ClaseHija();
+//        System.out.println("claseHija = " + claseHija);
     }
 }
