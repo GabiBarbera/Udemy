@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InstanceOf/domain/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstanceOf/domain/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InstanceOf/test/TestInstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionObjetos/domain/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionObjetos/domain/Escritor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionObjetos/domain/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionObjetos/domain/TipoEscritura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversionObjetos/test/TestConversionObjetos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sobreescritura/domain/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sobreescritura/domain/Gerente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     "Application.TestArreglosObject.executor": "Run",
     "Application.TestAutoboxingUnboxing.executor": "Run",
     "Application.TestBloquesInicializacion.executor": "Run",
+    "Application.TestConversionObjetos.executor": "Run",
     "Application.TestEnumeraciones.executor": "Run",
     "Application.TestForEach.executor": "Run",
     "Application.TestInstanceOf.executor": "Run",
@@ -58,7 +60,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gabibarbera/Udemy/src/InstanceOf"
+    "last_opened_file_path": "/Users/gabibarbera/Udemy/src/ConversionObjetos/domain"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -66,6 +68,8 @@
       <recent name="Sobreescritura.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ConversionObjetos/domain" />
+      <recent name="$PROJECT_DIR$/src/ConversionObjetos" />
       <recent name="$PROJECT_DIR$/src/InstanceOf" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/Matrices" />
