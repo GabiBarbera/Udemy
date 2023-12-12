@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClaseObject/domain/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClaseObject/domain/Escritor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClaseObject/domain/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClaseObject/domain/TipoEscritura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClaseObject/test/TestClaseObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesAbstractas/domain/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesAbstractas/domain/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesAbstractas/test/TestClasesAbstractas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +48,7 @@
     "Application.TestAutoboxingUnboxing.executor": "Run",
     "Application.TestBloquesInicializacion.executor": "Run",
     "Application.TestClaseObject.executor": "Run",
+    "Application.TestClasesAbstractas.executor": "Run",
     "Application.TestConversionObjetos.executor": "Run",
     "Application.TestEnumeraciones.executor": "Run",
     "Application.TestForEach.executor": "Run",
