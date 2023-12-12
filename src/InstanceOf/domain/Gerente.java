@@ -1,4 +1,4 @@
-package Sobreescritura.domain;
+package InstanceOf.domain;
 
 public class Gerente extends Empleado {
 
@@ -6,6 +6,14 @@ public class Gerente extends Empleado {
 
     public Gerente(String nombre, double sueldo, String departamento) {
         super(nombre, sueldo);
+        this.departamento = departamento;
+    }
+
+    public String getDepartamento() {
+        return departamento;
+    }
+
+    public void setDepartamento(String departamento) {
         this.departamento = departamento;
     }
 
