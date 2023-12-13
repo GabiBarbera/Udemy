@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ApiColecciones/test/TestColecciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesGenericas/genericos/ClaseGenerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasesGenericas/test/TestGenerics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +19,7 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -53,6 +55,7 @@
     "Application.TestEnumeraciones.executor": "Run",
     "Application.TestExcepciones.executor": "Run",
     "Application.TestForEach.executor": "Run",
+    "Application.TestGenerics.executor": "Run",
     "Application.TestInstanceOf.executor": "Run",
     "Application.TestInterfaces.executor": "Run",
     "Application.TestJavaBeans.executor": "Run",
