@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/accesoDatos/AccesoDatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/accesoDatos/ImplementacionMySql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/accesoDatos/ImplementacionOracle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interfaces/test/TestInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBeans/domain/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBeans/test/TestJavaBeans.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +54,7 @@
     "Application.TestForEach.executor": "Run",
     "Application.TestInstanceOf.executor": "Run",
     "Application.TestInterfaces.executor": "Run",
+    "Application.TestJavaBeans.executor": "Run",
     "Application.TestModificadoresAcceso.executor": "Run",
     "Application.TestSobreescritura.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
