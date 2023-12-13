@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26492bf2-8b32-41a8-b3c9-fcef42fb88c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ManejoExcepciones1/aritmetica/Aritmetica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ManejoExcepciones1/excepciones/OperacionExcepcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ApiColecciones/test/TestColecciones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ManejoExcepciones1/test/TestExcepciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManejoExcepciones1/test/TestExcepciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,7 @@
     "Application.TestBloquesInicializacion.executor": "Run",
     "Application.TestClaseObject.executor": "Run",
     "Application.TestClasesAbstractas.executor": "Run",
+    "Application.TestColecciones.executor": "Run",
     "Application.TestConversionObjetos.executor": "Run",
     "Application.TestEnumeraciones.executor": "Run",
     "Application.TestExcepciones.executor": "Run",
